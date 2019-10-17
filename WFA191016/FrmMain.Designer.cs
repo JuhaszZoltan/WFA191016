@@ -108,6 +108,7 @@
             this.btnRogzit.TabIndex = 5;
             this.btnRogzit.Text = "RÖGZÍT";
             this.btnRogzit.UseVisualStyleBackColor = true;
+            this.btnRogzit.Click += new System.EventHandler(this.btnRogzit_Click);
             // 
             // label2
             // 
